@@ -12,6 +12,11 @@ Welcome to CookWithUs, your go-to source for mouthwatering recipes from around t
 # Start Cooking Today!
 Browse our recipes, try new flavors, and share your creations! Hosted on GitHub, this platform allows open collaboration – feel free to contribute your favorite recipes or suggest improvements.
 
+## Technologies Used 🛠️
+- **HTML** - Structure of the website  
+- **CSS** - Styling and design  
+- **JavaScript** - Interactivity and functionality
+  
 # Live Demo 🚀  
 🔗 [Click here to view the live demo](https://adalisiwar.github.io/cooking_recipes_project/)
 
